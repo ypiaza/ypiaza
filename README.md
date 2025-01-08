@@ -3,7 +3,7 @@
 🎨 **Apaixonado por interfaces** e estudante de **Desenvolvimento Web**, estou sempre buscando criar experiências digitais incríveis e funcionais.
 
 🚀 Tecnologias:
-- **Frontend:** React, Tailwind CSS, HTML, CSS, JavaScript.
+- **Frontend:** React, Tailwind CSS, HTML, CSS, JavaScript, TypeScript.
 - **Versionamento:** Git e GitHub.
 - **Sistemas Operacionais:** Linux e Windows.
 
