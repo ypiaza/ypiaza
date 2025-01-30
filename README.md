@@ -20,3 +20,6 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ypiaza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
+![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ypiaza&theme=dark)
+
+
