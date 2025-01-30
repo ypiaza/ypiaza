@@ -16,8 +16,8 @@
 </div><br><br><br>
  <div style="display: flex; justify-content: center; width: 100%">
    <a href="https://github.com/ypiaza">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypiaza&layout=compact&langs_count=6&theme=tokyonight"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ypiaza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypiaza&layout=compact&langs_count=6&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ypiaza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ypiaza&theme=dark)
