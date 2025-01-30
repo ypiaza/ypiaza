@@ -14,10 +14,9 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div><br><br><br>
- <div style="display: flex; justify-content: center; width: 100%">
+ <div>
    <a href="https://github.com/ypiaza">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypiaza&layout=compact&langs_count=6&theme=dark"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ypiaza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ypiaza&theme=dark"/>
 </div>
 
