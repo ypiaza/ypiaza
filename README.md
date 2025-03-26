@@ -1,6 +1,6 @@
 ## Olá! Eu sou o ypiaza!
 
-🎨 **Apaixonado por interfaces** e estudante de **Desenvolvimento Web**, estou sempre buscando criar experiências digitais incríveis e funcionais.
+**Apaixonado por interfaces** e estudante de **Desenvolvimento Web**, estou sempre buscando criar experiências digitais incríveis e funcionais.
 
 🚀 Tecnologias:
 - **Frontend:** React, Tailwind CSS, HTML, CSS, JavaScript, TypeScript.
