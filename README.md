@@ -1,52 +1,61 @@
-# 👋 Olá, eu sou o ypiaza!
+# 👨‍💻 Yuri Piazza | Desenvolvedor Front-end
 
-<p align="center">
-  **Apaixonado por interfaces** e estudante de **Desenvolvimento Web**.  
-  Estou sempre buscando criar experiências digitais incríveis, funcionais e focadas na experiência do usuário.
+<p align="left">
+  Desenvolvedor Front-end focado na criação de aplicações web modernas, responsivas e de alta performance. Especializado no ecossistema <strong>React.js, Next.js, TypeScript e Tailwind CSS</strong>, com foco em Clean Code, UI/UX e consumo de APIs RESTful.
 </p>
 
-<p align="center">
-  <a href="https://seu-linkedin-aqui">
+<p align="left">
+  <a href="https://www.linkedin.com/in/yuripiaza/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:seu-email@email.com">
+  <a href="mailto:teu-email@dominio.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/ypiaza">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+### 💻 Stack Principal & Ferramentas
 
-### 💻 Frontend
+**Front-end & Linguagens**
 <p align="left">
-  <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="TailwindCSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### 🛠️ Versionamento & Sistemas
+**Ferramentas & Ambientes**
 <p align="left">
-  <img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img alt="Windows" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
-## 📈 Estatísticas do GitHub
+### 🚀 Foco Atual & Objetivos
+
+- 🔭 **Atualmente:** Aprofundando arquitetura de aplicações com **Next.js**, gestão de estado global e otimização de performance web (Core Web Vitals).
+- 🎯 **Próximos passos:** Expansão de conhecimentos para o ecossistema Back-end (**Node.js, Express e Bancos de Dados**).
+- ⚡ **Diferencial:** Desenvolvimento de interfaces orientadas à experiência do utilizador (UI/UX) e código limpo (*Clean Code*).
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypiaza&layout=compact&langs_count=6&theme=dark" alt="Linguagens mais usadas" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ypiaza&theme=dark" alt="Detalhes do perfil" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ypiaza&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypiaza&layout=compact&theme=dark&hide=html,css" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
-## 🛠️ No que estou trabalhando no momento?
-* 🔭 Atualmente estou aprofundando meus conhecimentos em **React** e **TypeScript**.
-* ⚡ Gosto de transformar designs complexos em códigos limpos e responsivos.
-* 💬 Sinta-se à vontade para se conectar comigo para conversar sobre tecnologia ou desenvolvimento frontend!
+📫 **Contacto:** Para propostas de trabalho, parcerias ou networking, envia uma mensagem através do [LinkedIn](https://www.linkedin.com/in/yuripiaza/).
