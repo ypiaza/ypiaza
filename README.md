@@ -1,4 +1,4 @@
-# 👨‍💻 Yuri Piazza | Desenvolvedor Front-end
+# 👨‍💻 Yuri Piaza | Desenvolvedor Front-end
 
 <p align="left">
   Desenvolvedor Front-end focado na criação de aplicações web modernas, responsivas e de alta performance. Especializado no ecossistema <strong>React.js, Next.js, TypeScript e Tailwind CSS</strong>, com foco em Clean Code, UI/UX e consumo de APIs RESTful.
@@ -49,11 +49,15 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas & Atividade no GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ypiaza&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypiaza&layout=compact&theme=dark&hide=html,css" alt="Linguagens mais usadas" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=ypiaza&theme=dark&hide_border=true" alt="Sequência de Commits Yuri Piazza" />
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ypiaza&theme=dark" alt="Resumo do Perfil Yuri Piazza" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=ypiaza&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Troféus GitHub Yuri Piazza" />
 </p>
 
 ---
